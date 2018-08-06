@@ -9,7 +9,7 @@
  * 2 (or 3) card items per row in a body section : Y
  * Footer with social icons that link to the actual social pages : Y
 #### Optional requirement:
- * Add favicon to the page N
+ * Add favicon to the page Y
  * Animation on an element N
  * Navigation, contact, sitemap, privacy policy, term of use, etc in footer Y
  * Bootstrap carousel for banner N
