@@ -220,14 +220,14 @@ body
 .picture-inside
 {
 	position: absolute;
-	top: 57px;
-	left: 250px;
+	top: 55px;
+	left: 240px;
 	z-index: -1;
 }
 
 .app-picture
 {
-	width: 190px;
+	width: 175px;
 /*	position: absolute;
 	top: 835px;
 	left: 339px;
@@ -259,7 +259,7 @@ body
 
 .steps-body
 {
-	margin: 0px 0px 60px 0px;
+	margin: 0px 0px 50px 0px;
 	font-size: 16px;
 }
 
